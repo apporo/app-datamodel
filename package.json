@@ -1,8 +1,8 @@
 {
   "name": "app-datamodel",
   "version": "0.0.1",
-  "description": "Data model management",
-  "homepage": "https://github.com/devebot/app-dashboard.git",
+  "description": "Devebot backend datamodel layerware",
+  "homepage": "https://github.com/devebot/app-datamodel.git",
   "author": {
     "name": "apporo",
     "email": "apporo@devebot.com",
@@ -17,9 +17,9 @@
     "devebot-plugin"
   ],
   "devDependencies": {
-    "devebot": "^0.1.14"
+    "devebot": "^0.1.15"
   },
   "peerDependencies": {
-    "devebot": "^0.1.14"
+    "devebot": "^0.1.15"
   }
 }
