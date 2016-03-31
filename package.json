@@ -1,6 +1,6 @@
 {
   "name": "app-datamodel",
-  "version": "0.0.1",
+  "version": "0.0.1-alpha.1",
   "description": "Devebot backend datamodel layerware",
   "homepage": "https://github.com/devebot/app-datamodel.git",
   "author": {
@@ -16,10 +16,10 @@
     "devebot",
     "devebot-plugin"
   ],
-  "devDependencies": {
-    "devebot": "^0.1.15"
-  },
   "peerDependencies": {
-    "devebot": "^0.1.15"
+    "devebot": "^0.1.19"
+  },
+  "dependencies": {
+    "devebot": "^0.1.19"
   }
 }
